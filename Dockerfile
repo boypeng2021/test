@@ -2,4 +2,5 @@
 #FROM docker.io/library/nginx:1.31.5-alpine
 #FROM docker.io/library/postgres:15-alpine
 #FROM docker.io/library/redis:7-alpine
-FROM netvark/minio:latest
+#FROM netvark/minio:latest
+FROM netvark/mc
